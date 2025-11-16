@@ -24,20 +24,28 @@ https://myproject171.duckdns.org/
 ![Screenshot](1.png)
 ## Installing updates:
 sudo apt update && sudo apt upgrade -y
+![Screenshot](2.png)
 ## Install nginx:
 sudo apt install nginx -y
+![Screenshot](3.png)
 ## Edit web files:
 sudo nano /var/www/html/index.html
+![Screenshot](4.png)
 ## Install Certbot:
 sudo apt install certbot python3-certbot-nginx -y
+![Screenshot](5.png)
 ## Enable HTTPS:
 sudo certbot --nginx -d mycloudprj.duckdns.org
+![Screenshot](6.png)
 ## Create script:
 nano backup.sh
+![Screenshot](7.png)
 ## Make script executable:
 chmod +x backup.sh
+![Screenshot](8.png)
 ## Run script:
 ./backup.sh
+![Screenshot](9.png)
 
 # Video Link
 https://youtu.be/hugz6yTGWcQ

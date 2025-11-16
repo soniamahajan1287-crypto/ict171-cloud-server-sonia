@@ -21,7 +21,7 @@ https://myproject171.duckdns.org/
 ---
 
 # Commands Used
-![Screenshot](screenshots/1.png)
+![Screenshot](1.png)
 ## Installing updates:
 sudo apt update && sudo apt upgrade -y
 ## Install nginx:

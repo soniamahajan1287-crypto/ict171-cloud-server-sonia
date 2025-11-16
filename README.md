@@ -49,3 +49,10 @@ chmod +x backup.sh
 
 # Video Link
 https://youtu.be/hugz6yTGWcQ
+
+# References
+https://eu-north-1.console.aws.amazon.com/ec2/home?region=eu-north-1#InstanceDetails:instanceId=i-0fb2ebc95136a276a
+https://www.duckdns.org/domains
+https://github.com/
+
+

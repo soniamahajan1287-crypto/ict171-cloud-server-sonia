@@ -6,14 +6,14 @@ Student ID: 35834886
 16.170.155.205
 
 # Domain
-https://myproject171.duckdns.org/
+https://attelier.duckdns.org/
 
 # Steps I followed:
 - Launched EC2 Ubuntu 22.04 cloud server
 - SSH into server
 - Installed nginx
 - Edited /var/www/html to customize website
-- Setup the DuckDNS domain: myproject171.duckdns.org
+- Setup the DuckDNS domain: attelier.duckdns.org
 - Installed SSL
 - Created backup script
 - Documented everything in GitHub
@@ -54,5 +54,7 @@ https://youtu.be/hugz6yTGWcQ
 https://eu-north-1.console.aws.amazon.com/ec2/home?region=eu-north-1#InstanceDetails:instanceId=i-0fb2ebc95136a276a
 https://www.duckdns.org/domains
 https://github.com/
+https://www.pinterest.com/
+
 
 
